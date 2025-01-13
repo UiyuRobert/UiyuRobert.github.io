@@ -1,0 +1,12 @@
+/* 默认日间模式
+:root {
+    --sec-text-color: #000000;
+    
+}
+
+/* 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --sec-text-color: #ffffff;
+    }
+} */
